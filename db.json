@@ -1,0 +1,232 @@
+{
+  "forum": [
+    {
+      "id": 1,
+      "title": "Faithful",
+      "name": "Marc Vegas",
+      "content": "Lorem ipsum dolor sit amet consectetur, adipisicing elit.?"
+    },
+    {
+      "id": 2,
+      "title": "Driving",
+      "name": "Joseph Ken",
+      "content": "Allah"
+    },
+    {
+      "id": 3,
+      "title": "Vue JS",
+      "name": "William Inclino",
+      "content": "conts life = ref(life)"
+    },
+    {
+      "id": 4,
+      "title": "Travel",
+      "name": "Joshua Tayag",
+      "content": "AUp uup and Awayllah"
+    },
+    {
+      "title": "Topic6",
+      "name": "Noli Pernes",
+      "content": "Topic 6",
+      "id": 6
+    }
+  ],
+  "announcements": [
+    {
+      "id": 1,
+      "title": "Vue JS",
+      "name": "William Inclino",
+      "content": "conts life = ref(life)"
+    },
+    {
+      "id": 2,
+      "title": "Travel",
+      "name": "Joshua Tayag",
+      "content": "AUp uup and Awayllah"
+    },
+    {
+      "id": 3,
+      "title": "Faithful",
+      "name": "Marc Vegas",
+      "content": "Lorem ipsum dolor sit amet consectetur, adipisicing elit.?"
+    },
+    {
+      "id": 4,
+      "title": "Driving",
+      "name": "Joseph Ken",
+      "content": "Allah"
+    }
+  ],
+  "joboffers": [
+    {
+      "id": 1,
+      "title": "Vue JS Developer",
+      "name": "William Inclino",
+      "content": "Hiring Vue JS Developer"
+    },
+    {
+      "id": 2,
+      "title": "Laravel Backend",
+      "name": "Joshua Tayag",
+      "content": "Hiring laravel Developer"
+    },
+    {
+      "id": 3,
+      "title": "Supabase Senior Developer",
+      "name": "Marc Vegas",
+      "content": "Hiring Supabase Developer"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "nolipernes",
+      "password": "nolipernes12",
+      "email": "nolipernes@gmail.com",
+      "role": "alumni"
+    },
+    {
+      "id": 2,
+      "username": "cictedean",
+      "password": "cictedean",
+      "email": "cicte@gmail.com",
+      "role": "dean"
+    },
+    {
+      "id": 3,
+      "username": "samanthasmith",
+      "password": "samanthasmith",
+      "email": "samanthasmith@gmail.com",
+      "role": "alumni"
+    },
+    {
+      "id": 4,
+      "username": "nursingdean",
+      "password": "nursingdean",
+      "email": "nursing@gmail.com",
+      "role": "dean"
+    }
+  ],
+  "alumni":[
+    {
+      "alumni_id": 1,
+      "first_name": "Noli",
+      "last_name":"Pernes",
+      "gender":"Male",
+      "date_of_birth":"04/12/1999",
+      "address":"Ipil Ormoc City",
+      "nationality":"Filipino",
+      "email":"nolipernes@gmail.com",
+      "fb_account":"",
+      "phone":"09090807065",
+      "degree_obtained_id":1,
+      "major_id":0,
+      "graduation_date":"",
+      "academic_awards":"",
+      "employment_status":"Employed",
+      "work_experience_years":2,
+      "job_placement_officer_id":1,
+      "college_id":1
+    },
+    {
+      "alumni_id": 2,
+      "first_name": "Samantha",
+      "last_name":"Smith",
+      "gender":"Female",
+      "date_of_birth":"05/12/2000",
+      "address":"Cogon Ormoc City",
+      "nationality":"Filipino",
+      "email":"samanthasmith@gmail.com",
+      "fb_account":"",
+      "phone":"09100807066",
+      "degree_obtained_id":1,
+      "major_id":0,
+      "graduation_date":"",
+      "academic_awards":"",
+      "employment_status":"Employed",
+      "work_experience_years":2,
+      "job_placement_officer_id":1,
+      "college_id":1
+    }
+  ],
+  "degree":[
+    {
+      "degree_id":1,
+      "degree_name":"Bachelor of Science in Information Technology",
+      "major_id":""
+    },
+    {
+      "degree_id":2,
+      "degree_name":"Bachelor of Science in Computer Science",
+      "major_id":""
+    },
+    {
+      "degree_id":3,
+      "degree_name":"Bachelor of Science in Computer Engineering",
+      "major_id":""
+    }
+  ],
+  "major":[
+    {
+      "major_id":1,
+      "major_name":"",
+      "college_id":1
+    }
+  ],
+  "college":[
+    {
+      "college_id":1,
+      "college_name":"College of Information Communication Technology and Engineering",
+      "dean_id":1
+    }
+  ],
+  "college_dean":[
+    {
+      "dean_id":1,
+      "first_name":"Cheryl",
+      "last_name":"Tarre",
+      "email":"cicte@gmail.com"
+    }
+  ],
+  "skills":[
+    {
+      "skill_id":1,
+      "skill_name":"Javascript"
+    },
+    {
+      "skill_id":2,
+      "skill_name":"PHP"
+    },
+    {
+      "skill_id":3,
+      "skill_name":"Java"
+    }
+  ],
+  "alumni_skills":[
+    {
+      "alumni_id":1,
+      "skill_id":1
+    },
+    {
+      "alumni_id":1,
+      "skill_id":2
+    }
+  ],
+  "employment_history":[
+    {
+      "employment_history_id":1,
+      "alumni_id":1,
+      "company_name":"San Lorenzo Ruiz College of Ormoc",
+      "job_title":"IT Specialist",
+      "industry":"School",
+      "start_date":"September 2023",
+      "end_date":"Current",
+      "job_description":""
+    }
+  ]
+
+
+  
+  
+  
+}
